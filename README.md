@@ -1,2 +1,2 @@
 # GANS
-Using GANS on MNIST dataset
+Learning GANS - Starting with simplest MNIST dataset.
